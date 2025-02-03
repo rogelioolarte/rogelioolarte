@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Rogelio%20Olarte&fontSize=50)
-
 # Hello 👋, I'm Rogelio Olarte
 
 💻 Full Stack Developer with over 1 year of experience building web applications with modern technologies.
