@@ -43,7 +43,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=rogelioolarte&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" style="max-width: 100%;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=rogelioolarte&theme=dark&hide_border=true" alt="GitHub Streak" style="max-width: 100%;" />
+    <img src="https://github-readme-streak-stats-mauve-xi.vercel.app?user=rogelioolarte&theme=dark" alt="GitHub Streak" style="max-width: 100%;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogelioolarte&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff" alt="Top Langs" style="max-width: 100%;" />
 </div>
 
