@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working with **Angular, React, TypeScript, and Redux Toolkit, CSS, HTML, Java, Spring**.
+- 🔭 Currently working with **Angular, React, TypeScript, Redux, CSS, HTML, Java, Spring**.
 - ⚡ Passionate about clean, scalable, and well-structured software development.
 
 <h2>🛠️ Languages, Frameworks & Libraries</h2>
